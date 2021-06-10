@@ -1,5 +1,5 @@
 _repo: The-Poems-of-Richard-Corbet-late-bishop-of-Oxford-and-of-Norwich-4th-edition_65375
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   annotator:
     agent_name: Gilchrist, Octavius
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '53307'
     url: http://www.gutenberg.org/2009/agents/53307
     wikipedia: https://en.wikipedia.org/wiki/Octavius_Gilchrist
+covers:
+- cover_type: archival
+  image_path: 65375-h/images/cover.jpg
 creator:
   author:
     agent_name: Corbet, Richard
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53306
     wikipedia: https://en.wikipedia.org/wiki/Richard_Corbet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65375#The-Poems-of-Richard-Corbet-late-bishop-of-Oxford-and-of-Norwich-4th-edition
 gutenberg_issued: '2021-05-18'
 gutenberg_type: Text
 identifiers:
